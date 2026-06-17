@@ -1,0 +1,66 @@
+# Free Secure WebP Converter — Ask Jeeves
+
+> Free, secure WebP converter. Convert WebP to PNG, JPEG, PDF, or Base64 in your browser. Compress, crop, and batch process—files never leave your device.
+
+## Tool
+
+- [Free Secure WebP Converter](https://webp.askjeeves.cc/): Convert WebP to PNG, JPEG, PDF, Base64; crop, compress, batch compress
+
+## Supported conversions
+
+- WebP → PNG
+- WebP → JPEG
+- Convert to PDF
+- Convert to Base64
+- Crop image
+- Compress image
+- Compress images (batch)
+
+## FAQ
+
+- Is this WebP converter free? Yes. Every conversion is free with no account, watermark, or usage limit.
+- Is this WebP converter secure? Yes. Files are processed locally in your browser. Nothing is uploaded to a server, so your images stay on your device.
+- What formats can I convert WebP to? You can convert WebP to PNG, JPEG, PDF, or Base64 text. You can also crop WebP images, compress a single file, or batch-compress multiple WebPs into a ZIP file.
+- Can I compress or crop WebP images? Yes. Use Compress image for one file, Compress images (batch) for multiple files, or Crop image with the interactive crop box on the preview.
+- Does the converter work on mobile? Yes. It runs in modern mobile browsers that support HTML5 and JavaScript. Very large files may be slower on mobile devices.
+- What is the maximum file size? Each file can be up to about 50 MB. If a file is too large, you will see a clear error message asking you to use a smaller file.
+- Why did my conversion fail? Common causes are a non-WebP file, corrupted image data, exceeding the size limit, or choosing batch compress with only one file. Check the message below the converter for specific guidance, then try again or refresh the page.
+
+## Extended context
+
+- [Full site context](https://webp.askjeeves.cc/llms-full.txt): how-it-works, security, and per-conversion details
+
+## More tools
+
+- [Ask Jeeves](https://askjeeves.cc): Free file conversion tools (PDF, images, CSV/JSON/Excel, Word)
+
+## How it works
+
+1. Upload one or more WebP files using the drop zone or file picker.
+2. Choose an output format or action (compress, crop, batch, and more).
+3. Click Convert, then download your result. Nothing is uploaded to a server.
+
+## Secure and private
+
+Your files are processed locally in your browser. Nothing is stored on a server and nothing is uploaded over the network. That makes this tool a good fit for screenshots, documents, and other sensitive images you do not want to send to a third-party service.
+
+## Conversion details
+
+- **WebP → PNG** — Convert WebP to PNG with lossless output for editing or compatibility.
+- **WebP → JPEG** — Convert WebP to JPEG with adjustable quality and optional max width.
+- **Convert to PDF** — Turn a WebP image into a single-page PDF document.
+- **Convert to Base64** — Export WebP as Base64 text for code or API embedding.
+- **Crop image** — Crop a WebP using an interactive preview box.
+- **Compress image** — Reduce WebP file size with a quality slider.
+- **Compress images (batch)** — Compress multiple WebP files and download them as a ZIP file.
+
+## Keywords
+
+webp converter, free webp converter, secure webp converter, webp to png, webp to jpeg, webp to pdf, webp compressor, browser webp converter
+
+## Site metadata
+
+- Canonical URL: https://webp.askjeeves.cc/
+- Site name: Free Secure WebP Converter — Ask Jeeves
+- Sitemap: https://webp.askjeeves.cc/sitemap-index.xml
+- Organization: [Ask Jeeves](https://askjeeves.cc)
