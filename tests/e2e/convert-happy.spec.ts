@@ -1,12 +1,9 @@
-import { TOOL_MATRIX } from "@askjeeves/test-e2e/conversion-matrix";
-import { runToolMatrixCase } from "@askjeeves/test-e2e/tool-flow";
 import { test } from "@playwright/test";
+import { WEBP_CONVERSION_CASES, runWebpConversionCase } from "./helpers";
 
-const cases = TOOL_MATRIX["webp-tools"] ?? [];
-
-for (const testCase of cases) {
+for (const testCase of WEBP_CONVERSION_CASES) {
 	test(`converts ${testCase.id}`, async ({ page }) => {
 		await page.goto("/");
-		await runToolMatrixCase(page, testCase);
+		await runWebpConversionCase(page, testCase);
 	});
 }
